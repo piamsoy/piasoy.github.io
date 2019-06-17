@@ -1,0 +1,109 @@
+body {
+    font-family: 'B612 Mono', monospace;
+  }
+  header {
+    height: 700px;
+    /* background-image: url("images/background-header.jpg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; */
+  }
+
+  h1 {
+    text-align: left;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .profile {
+    border-radius: 50%;
+    width: 20%;
+    position: absolute;
+
+    top: 20%;
+    left: 20%;
+  }
+
+  .work {
+    border-radius: 50%;
+  }
+
+  p, li{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+  }
+
+  .love {
+    display: block;
+    width: 75%;
+    margin: auto;
+
+  }
+
+  .family-section {
+    height: 700px;
+    background-image: url("images/background-header.jpg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+  }
+
+  .family {
+    /* border-radius: 50%; */
+    display: block;
+    width: 75%;
+    margin: auto;
+
+  }
+
+  .half {
+    width: 50%;
+  }
+
+  .third {
+    width: 33%;
+  }
+  .quarter{
+    width: 25%;
+  }
+
+  .left {
+    float: left;
+  }
+
+  .right {
+    float: right;
+  }
+
+  .clear {
+    clear: both;
+  }
+
+  .center{
+    text-align: center;
+  }
+  .margin-top-5{
+    margin-top: 5%;
+  }
+
+  .margin-top-10{
+    margin-top: 10%;
+  }
+
+  .margin-top-20{
+    margin-top: 20%;
+  }
+
+  .margin-top-30{
+    margin-top: 30%;
+  }
+
+  .padding-top-20{
+    padding-top: 40px;
+  }
